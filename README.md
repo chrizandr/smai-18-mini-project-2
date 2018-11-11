@@ -5,6 +5,7 @@
 
 ## Data
 
+
 In this mini-project you are expected to perform classification task on 
 [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset and report the f1-score as well as the accuracy on the test dataset. 
 ## Representation and Dimensionality Reduction
